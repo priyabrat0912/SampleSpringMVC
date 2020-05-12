@@ -1,2 +1,0 @@
-# SampleSpringMVC
-spring MVC project
